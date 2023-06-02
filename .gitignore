@@ -14,7 +14,6 @@ lerna-debug.log*
 
 *.tsbuildinfo
 next-env.d.ts
-
 .next
 .vercel
 .env*.local
